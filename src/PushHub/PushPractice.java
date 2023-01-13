@@ -2,6 +2,9 @@ package PushHub;
 
 public class PushPractice {
 
+	package com.noorteck.java.jhw9;
+
+public class WhileLoopHW
 	
 	public static void main(String[] args) {
 
